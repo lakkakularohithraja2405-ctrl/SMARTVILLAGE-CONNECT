@@ -19,4 +19,4 @@ Uses AI to assist users in finding information quickly
 Supports villagers, students, farmers, and job seekers
 Provides a modern, easy-to-use interface designed for rural users
 Aims to reduce the digital gap and improve quality of life in villages
-website URL:https://smartvillageconnect-xr2r366.public.builtwithrocket.new
+website URL:https://digital-gram-ai.lovable.app
